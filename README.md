@@ -3,6 +3,8 @@ A collection of cool fonts for your creative projects.
 
 # Installation
 > [!NOTE]
+> These are my personal fonts to make your designs look great.
+> 
 > Use `git clone` instead of downloading the **ZIP** file from GitHub.
 > ```
 > git clone https://github.com/fr0st-iwnl/fontz.git
@@ -16,7 +18,7 @@ A collection of cool fonts for your creative projects.
 > git pull
 > ```
 # Categories
-All of our categories are listed below.
+All the categories are listed below.
 
 <div align="center">
   <table><tr><td>
