@@ -3,7 +3,6 @@ A collection of cool fonts for your creative projects.
 
 # Installation
 > [!NOTE]
-> These are my personal fonts to make your designs look great.
 > 
 > Use `git clone` instead of downloading the **ZIP** file from GitHub.
 > ```
