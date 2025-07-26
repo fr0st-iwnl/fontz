@@ -1,4 +1,4 @@
-# 🌄 fontz - CONTRIBUTING.md
+# 📦 fontz - CONTRIBUTING.md
 
 ***Thanks for contributing!*** Follow these steps to add fonts to the collection.
 
