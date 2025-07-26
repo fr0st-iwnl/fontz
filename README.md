@@ -34,6 +34,19 @@ All of our themes are listed below.
 [![Sci-Fi](https://placehold.co/130x30/273238/F1F4F8?text=Sci-Fi&font=Playfair%20Display)](https://github.com/fr0st-iwnl/fontz/tree/master/Sci-Fi)
 [![Square](https://placehold.co/130x30/373C40/F1F4F8?text=Square&font=Playfair%20Display)](https://github.com/fr0st-iwnl/fontz/tree/master/Square)
 
+  </td></tr></table>
+</div>
+
+# 📚 Font Credits
+I didn’t make these fonts. All credit goes to the **original creators**.
+Make sure to check each font's license before using it.
+
+## 🤝 Contributing
+
+We welcome contributions to help grow the font collection and add new fonts! If you're interested in contributing, please check out the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines and instructions.
+
+###### <div align="center"><sub id="-design-by-fr0st.xyz">Design by <a href="https://fr0st.xyz">fr0st.xyz</a></sub></div>
+
 
 
 
