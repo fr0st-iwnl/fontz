@@ -1,29 +1,24 @@
 # ✒️ \\\ FontZ
 A collection of cool fonts for your creative projects.
 
-# Installation
-> [!NOTE]
-> 
-> Use `git clone` instead of downloading the **ZIP** file from GitHub.
-> ```
-> git clone https://github.com/fr0st-iwnl/fontz.git
-> ```
-
-
 > [!TIP]
-> To update the fonts, simply navigate to the folder and type:
->
-> ```bash
-> git pull
+> ### Download with curl
+> Use this in **CMD** on **Windows** (not ~~PowerShell~~), or any terminal on **Linux/macOS**:
 > ```
-# Categories
-All the categories are listed below.
+> curl -L -o fontz.zip https://github.com/fr0st-iwnl/fontz/releases/latest/download/fontz.zip
+> ```
+> ### Manual Download
+> You can also download the latest release directly from the [Releases page](https://github.com/fr0st-iwnl/fontz/releases/latest) which is simpler.
+
+
+# 🎨 Themes
+All of our themes are listed below.
 
 <div align="center">
   <table><tr><td>
     
 [![Ancient](https://placehold.co/130x30/4A4033/F1F4F8?text=Ancient&font=Playfair%20Display)](https://github.com/fr0st-iwnl/fontz/tree/master/Ancient%20(Roman%20%26%20Greek))
-[![Coding](https://placehold.co/130x30/2A2D34/F1F4F8?text=Coding&font=Playfair%20Display)](https://github.com/fr0st-iwnl/fontz/tree/master/Coding)
+[![Monospace](https://placehold.co/130x30/2A2D34/F1F4F8?text=Monospace&font=Playfair%20Display)](https://github.com/fr0st-iwnl/fontz/tree/master/Monospace)
 [![Decorative](https://placehold.co/130x30/443737/F1F4F8?text=Decorative&font=Playfair%20Display)](https://github.com/fr0st-iwnl/fontz/tree/master/Decorative)
 [![Destroy](https://placehold.co/130x30/3B3E3C/F1F4F8?text=Destroy&font=Playfair%20Display)](https://github.com/fr0st-iwnl/fontz/tree/master/Destroy)
 [![Fancy](https://placehold.co/130x30/3A403C/F1F4F8?text=Fancy&font=Playfair%20Display)](https://github.com/fr0st-iwnl/fontz/tree/master/Fancy)
