@@ -1,0 +1,50 @@
+name: Add a Font to the Collection
+description: Share a font and help grow the collection!
+labels: ["font", "feature-request"]
+
+body:
+  - type: checkboxes
+    attributes:
+      label: Before You Submit *
+      description: Please check all the boxes to make sure your font follows the rules.
+      options:
+        - label: The font file is clean and properly named.
+          required: true
+        - label: The font file is either .ttf or .otf format.
+          required: true
+        - label: The font is free to use, open source, or clearly licensed for redistribution.
+          required: true
+        - label: The font is complete, including all basic letters and numbers 0-9.
+          required: true
+
+  - type: textarea
+    id: font_links
+    attributes:
+      label: Provide links to your font files and mention their categories above each link
+      description: |
+        Paste the download links to your font files below, then **type the category folder name above each link.**
+        For example:
+
+        ```
+        Sans Serif
+        • https://example.com/my-sans-serif-font.ttf
+
+        Monospace
+        • https://example.com/my-monospace-font.otf
+
+        Display/Groovy
+        • https://example.com/my-display-font.otf
+        ```
+
+        Make sure the links are accessible and correct before submitting.
+    validations:
+      required: true
+
+
+  - type: textarea
+    id: extra_info
+    attributes:
+      label: Anything else to add?
+      description: Add any extra info, credits, or notes here (if needed).
+    validations:
+      required: false
